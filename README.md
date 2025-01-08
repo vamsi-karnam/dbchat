@@ -38,8 +38,7 @@ This project demonstrates the integration of OpenAI's GPT-4 model to generate SQ
    - Generate an API key from the OpenAI dashboard.
    - Add your API key to the code.
 
-5. **Convert the Jupyter Notebook to a Python Script**:
-   Example:
+5. **Example to convert the Jupyter Notebook to a Python Script**:
    - Install JupyterLab or use other online notebook applications such as colab.
    - Download the Jupyter Notebook (.ipynb file) and upload it to the preferred notebook application.
    - Export the notebook as a Python script.

@@ -24,7 +24,7 @@ This project demonstrates the integration of OpenAI's GPT-4 model to generate SQ
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/text-to-sql-model-integration.git
+   git clone https://github.com/yourusername/dbchat.git
    ```
 2. **Install Dependencies**:
    ```bash
@@ -41,7 +41,12 @@ This project demonstrates the integration of OpenAI's GPT-4 model to generate SQ
    - Generate an API key from the OpenAI dashboard.
    - Add your API key to the code.
 
-5. **Run the Script**:
+5. **Convert the Jupyter Notebook to a Python Script**:
+   - Install JupyterLab or use JupyterLab online.
+   - Open the Jupyter Notebook in the repo (.ipynb file).
+   - Export the notebook as a Python script (.py file) using the “File” -> “Download as” -> “Python (.py)” option.
+
+7. **Run the Script**:
    ```bash
    python script.py
    ```

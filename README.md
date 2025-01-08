@@ -33,23 +33,25 @@ This project demonstrates the integration of OpenAI's GPT-4 model to generate SQ
    - Update the MySQL connection details in the script.
 
 4. **Create an OpenAI API Key**:
-   - Sign up for an OpenAI account at OpenAI.
+   - Sign up for an OpenAI account.
    - Add credits to your account.
    - Generate an API key from the OpenAI dashboard.
    - Add your API key to the code.
 
 5. **Convert the Jupyter Notebook to a Python Script**:
-   - Install JupyterLab or use JupyterLab online.
-   - Download the Jupyter Notebook (.ipynb file).
-   - Export the notebook as a Python script using JupyterLab.
+   Example:
+   - Install JupyterLab or use other online notebook applications such as colab.
+   - Download the Jupyter Notebook (.ipynb file) and upload it to the preferred notebook application.
+   - Export the notebook as a Python script.
 
-6. **Run the Script**:
+7. **Run the Script**:
    ```bash
    python script-name.py
    ```
 
 ### Usage
 
+- Run the script.
 - Provide SQL instructions to the model.
 - The model generates and executes the corresponding SQL queries.
 - Manage your database efficiently with minimal manual SQL coding.

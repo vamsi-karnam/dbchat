@@ -1,7 +1,5 @@
 # dbchat
 
----
-
 ## Text-to-SQL Model Integration
 
 This project demonstrates the integration of OpenAI's GPT-4 model to generate SQL queries based on user instructions. The model interprets instructions and generates SQL code to modify databases and tables. The project includes:

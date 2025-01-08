@@ -21,7 +21,7 @@ This project demonstrates the integration of OpenAI's GPT-4 model to generate SQ
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/dbchat.git
+   git clone https://github.com/vamsi-karnam/dbchat.git
    ```
 2. **Install Dependencies**:
    ```bash

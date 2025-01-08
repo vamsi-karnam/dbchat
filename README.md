@@ -43,12 +43,12 @@ This project demonstrates the integration of OpenAI's GPT-4 model to generate SQ
 
 5. **Convert the Jupyter Notebook to a Python Script**:
    - Install JupyterLab or use JupyterLab online.
-   - Open the Jupyter Notebook in the repo (.ipynb file).
-   - Export the notebook as a Python script (.py file) using the “File” -> “Download as” -> “Python (.py)” option.
+   - Download the Jupyter Notebook (.ipynb file).
+   - Export the notebook as a Python script using JupyterLab.
 
-7. **Run the Script**:
+6. **Run the Script**:
    ```bash
-   python script.py
+   python script-name.py
    ```
 
 ### Usage

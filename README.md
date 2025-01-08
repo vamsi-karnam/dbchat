@@ -1,5 +1,4 @@
 # dbchat
-Here's an updated description for your GitHub project:
 
 ---
 
